@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*dRpCFDfCC1WUAdE6SB74zA.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*dRpCFDfCC1WUAdE6SB74zA.gif)
 <h1 align="center">Hi 👋, I'm Sayan Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
