@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Sayan Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandasai&label=Profile%20views&color=0e75b6&style=flat" alt="sayandasai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/your_crypto_boy" target="blank"><img src="https://img.shields.io/twitter/follow/your_crypto_boy?logo=twitter&style=for-the-badge" alt="your_crypto_boy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sayan_das_ai" target="blank"><img src="https://img.shields.io/twitter/follow/sayan_das_ai?logo=twitter&style=for-the-badge" alt="sayan_das_ai" /></a> </p>
 
 - 🌱 I’m currently learning **TensorFlow , Postgres**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/your_crypto_boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_crypto_boy" height="30" width="40" /></a>
+<a href="https://twitter.com/sayan_das_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_crypto_boy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/sayan-das-ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sayan-das-ai" height="30" width="40" /></a>
 <a href="https://kaggle.com/sayandasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayandasai" height="30" width="40" /></a>
 <a href="https://instagram.com/sayanda_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanda_ss" height="30" width="40" /></a>
